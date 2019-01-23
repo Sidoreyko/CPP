@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  ConsoleApplication1.cpp
+c:\temp\consoleapplication1\consoleapplication1\consoleapplication1.cpp(13): error C2065: 'System': undeclared identifier
+c:\temp\consoleapplication1\consoleapplication1\consoleapplication1.cpp(28): error C2065: 'System': undeclared identifier
+c:\temp\consoleapplication1\consoleapplication1\consoleapplication1.cpp(31): error C2065: 'System': undeclared identifier
+c:\temp\consoleapplication1\consoleapplication1\consoleapplication1.cpp(45): error C2065: 'System': undeclared identifier
